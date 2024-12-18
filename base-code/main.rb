@@ -4,7 +4,7 @@ day = "00"
 file_name = "12-#{day}-18/sampleIn.txt"
 # file_name = "12-#{day}-18/input.txt"
 
-data = File.read(file_name).split("\n").map { |i| i.strip }
+data = File.read(file_name).split("\n").map { |i| i.rstrip }
 
 def part1(input)
     return input
