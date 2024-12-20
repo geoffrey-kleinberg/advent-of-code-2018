@@ -48,7 +48,7 @@ My solutions to advent of code 2018!
 <a href="12-14-18/main.rb">
   <img src=".aoc_tiles/tiles/2018/14.png" width="161px">
 </a>
-<a href="12-15-18/main.py">
+<a href="12-15-18/main.rb">
   <img src=".aoc_tiles/tiles/2018/15.png" width="161px">
 </a>
 <!-- AOC TILES END -->
