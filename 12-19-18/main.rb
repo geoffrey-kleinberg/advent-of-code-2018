@@ -61,7 +61,6 @@ def part1(input)
     return register[0]
 end
 
-# 52756715 too high
 def part2(input)
     # get the sum of factors 10551343
     initial = 10551343
@@ -74,5 +73,7 @@ def part2(input)
     return sum
 end
 
-# puts part1(data)
+# sum of factors of 943
+puts part1(data)
+# sum of factors 10551343
 puts part2(data)
